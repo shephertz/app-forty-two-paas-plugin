@@ -1,8 +1,7 @@
 app-forty-two-paas-plugin
 =========================
 
-
-App42 Cloud API Client plugin files for Groovy/Grails
+Client plugin files for Groovy/Grails :
 
 [Download the latest App42 Grails Plugin] (https://github.com/shephertz/app-forty-two-paas-plugin/raw/master/grails-app-forty-two-paas-0.1.zip)
 
@@ -18,9 +17,7 @@ will also receive a link to download the plugin.
 
 Download the plugin and install it on your local system.
 
-Note:
-
-Plugin code can be accessed from GitHub: 
+Steps:
 
 Open your commmand prompt
 
